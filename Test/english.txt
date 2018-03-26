@@ -1,0 +1,644 @@
+Good
+Morning
+Afternoon
+Afternoon
+Evening
+Night
+Friends
+Yes
+No
+OK
+Good morning
+Good afternoon
+Good evening
+Hello
+Go well
+Stay well
+Sleep well
+Sleep well
+I
+You
+He
+She
+We
+You all
+They
+One
+Two
+Three
+Four
+Five
+Six
+Seven
+Eight
+Nine
+Ten
+Eleven
+Twelve
+Twenty
+Twenty-five
+Thirty
+One hundred
+Two hundred
+Three hundred
+One thousand
+Two thousand
+I’m hungry
+I’m thirsty
+I’m full
+I’m finished
+I’m tired
+I want to go to sleep
+Where is the water
+I don’t eat meat
+I don’t understand
+I’m Sarah What’s your name
+The food is very good
+Thank you very much
+Where is the latrine
+I need Water
+I want Water
+May I have Water
+Give me
+Water
+Basin
+To sleep
+To eat
+To bath
+Body soap
+Candle
+Cup
+Beer
+Help
+Key
+And With
+Still
+Or
+I don't know
+Work
+Worked
+Teach
+Taught
+Study
+Studied
+Learn
+Learned
+Sleep
+Go
+Look
+Looked
+See
+Be
+Love
+Like
+Have
+Know
+Feel
+Hear
+Understand
+I am eating
+I ate
+I ate meat
+I am not working
+He is speaking Oshikwanyama
+We will go tomorrow
+I like traditional porridge
+Do you have a pen
+I do not know Afrikaans
+How is it going
+It is going well
+What is your name
+My name is Sarah
+Where are you from
+I am from Windhoek
+What are you doing in Namibia
+I am a volunteer teacher
+I am a teacher trainer
+I am an IT volunteer
+What will you teach here
+I will teach
+Maths
+English
+Science
+For how long will you be here
+I will be here for two years
+See you later
+How old are you
+I am 4 years old
+It’s me
+It’s not me
+To sing
+Not to sing
+Is it not so
+It is so
+Put
+Boil
+Stir
+Wait
+Burn yourself
+Cook
+Bring
+Pound
+Take
+Pick
+Traditional porridge
+Meat
+Cabbage
+Dried spinach
+Goat
+Beef
+Chicken
+Dog
+Fish
+Field mouse
+Frog
+Soup
+Pasta
+Rice
+Oil
+Tomato
+Salt
+Fat cakes
+Apple
+Flour
+Sugar
+Millet
+Traditional non-alcoholic drinks
+Traditional alcoholic drinks
+Bread
+Jam
+Butter
+Beans
+Tea
+Coffee
+Cooldrink
+Pot
+Bowl
+Plate
+Traditional clay pot
+Spoon
+Fork
+Knife
+Hand
+Cooking stick
+Fire
+Cooking fire
+Match
+To sleep
+To eat
+To sing
+Put the flour in the pot
+Eat meat
+Wait ten minutes
+Stay well
+Go away
+Come
+Don’t be afraid
+Don’t go
+Word
+What is that
+Say
+I say
+What did he say
+In
+On
+At
+Family
+My father
+Your father
+His/her father
+My mother
+Your mother
+His mother
+My sibling
+My brother
+My sister
+Your sibling
+her sibling
+Little brother or sister
+Grandmother
+Grandfather
+Child
+Children
+Baby
+First-born
+Middle-born
+Last-born
+Friend
+Female friend
+Visitor
+Neighbor
+Husband
+Man
+Wife
+Woman
+Fiancé
+Fiancée
+I am engaged
+Parents
+Young person
+Younger person
+Elder person
+Who’s that
+Where
+When
+When
+Who
+Why
+What
+How
+How many
+Which
+Where are you going
+What are you doing
+Where is Ms. Sylvia
+Who is singing
+Why are crying
+My
+Your
+Her
+His
+Our
+Your
+Their
+Cuca shop
+Store
+Proletarian revolution
+Right-wing reactionary
+Money
+Change
+Expensive
+Cheap
+Coins
+Bills
+Enough
+To be enough
+Receipt
+Price
+Customer
+Dollar
+Rand
+coin
+Buy
+Sell
+Give
+Pay
+How much
+It is too expensive
+I only have
+Don’t cheat me
+I don’t have enough money
+Head
+Get in
+Get off
+Stop
+Here
+There
+Near
+Far
+Turn
+Car
+Lift
+Hitchhike
+Bus
+Combi
+To the left
+To the right
+Directions
+Town
+Church
+Police station
+Post office
+Office
+Petrol station
+Stop light
+Road
+Street
+Path
+I need a lift
+Where are you going
+Do you have change for
+Where is my change
+Stop here
+Stop there
+I am getting out here
+I am getting out there
+Stop for my friends
+I want to go to
+Come
+Go
+I went
+I am going
+I will go
+I came
+I am coming
+I will come
+They went
+Go back
+Come back
+Come from
+Arrive
+Head
+Hair
+Eyes
+Nose
+Ears
+Mouth
+Shoulder
+Back
+Arms
+Hands
+Chest
+Breast
+Stomach
+Buttocks
+Legs
+Knee
+Foot
+Toes
+Teeth
+Beard
+Pills
+Medicine
+Shot
+Clinic
+Hospital
+Doctor
+Nurse
+Cough
+Running nose
+Diarrhea
+Toothbrush
+Toothpaste
+Dental floss
+Hairbrush
+Razor
+Sunscreen
+Lotion
+Lip balm
+Sick
+Burn
+Shave
+Vomit
+What part of you is hurting
+When did you get sick
+Can you call Sarah for me
+Can you call Sarah for me
+I want to go to the hospital
+I want to see the doctor
+The doctor said I have to go to Windhoek
+Protect yourself
+Happy
+Full
+Angry
+Want
+Need
+Tired
+Dying
+Sleepy
+Hungry
+Afraid
+If
+If
+Then
+Maybe
+It’s possible
+About
+Behind
+In front
+While
+Because
+But
+Probably
+Me
+You
+Her
+Him
+Us
+You
+Them
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Day
+Week
+Weekend
+Month
+Year
+Time
+Minute
+Minutes
+Hour
+Clock
+Watch
+Meet
+Meeting
+Holiday
+Workshop
+What day is it
+What time is it
+What day
+At what time the of day
+At what time
+What is the date
+Clothes
+T-shirt
+Shirt
+Blouse
+Trousers
+Jersey
+Dress
+Skirt
+Jacket
+Shoes
+Flip-flops
+Socks
+Hat
+Belt
+Slip
+Glasses
+Tie
+Watch
+Bra
+Underwear
+Laundry
+Clean
+Dirty
+Bucket
+Soap
+Clothesline
+Clothespins
+Iron
+Basin
+Wash clothes
+Wash your body
+Iron
+Where can I hang my clothes
+You look nice
+I was born like that
+House
+Toilet
+Bedroom
+Kitchen
+Kitchen
+Shower area
+Sitting room
+Room
+Homestead
+Grain storage
+Garden
+Corral
+Door
+Fence
+Fire
+River
+Dirty water
+Water tap
+Animal
+Cow
+Goat
+Chicken
+Donkey
+Cat
+Dog
+Lizard
+Snake
+Spider
+Scorpion
+Millipede
+Pig
+Duck
+Horse
+Bird
+Mouse
+Ant
+Fly
+Mosquito
+Bat
+Owl
+Dove
+Cockroach
+Bug
+Bed
+Fridge
+Stove
+Trash
+Window
+Table
+Chair
+Roof
+Candle
+Paint
+Lock
+Key
+Break
+Fix
+Lock
+Open
+Unlock
+Close
+Sweep
+Look for
+Rake
+Cultivate
+Plant
+Sow
+Plough
+Harvest
+Slaughter
+Skin
+Fetch water
+Collect wood
+Throw away
+Meet
+Visit
+Greet
+Wake up 
+Wake someone up
+Where do I put my trash
+It is broken
+Can I paint my room
+What’s wrong
+Can I help you
+Where can I plant a garden
+Chalkboard
+Chalk
+Pen
+Pencil
+Paper
+Book
+Exam
+Report
+Certificate
+Workshop
+Science
+Mathematics
+English
+Afrikaans
+German
+Portuguese
+Spanish
+Computers
+Principal
+Secretary
+Grade
+Bag
+Learners
+Calculator
+Electricity
+School Fund
+Prepare
+Invigilate
+Sit down
+Mark
+Stand up
+Be quiet
+Speak louder
+Speak softer
+Read aloud
+Be late
+You are correct
+You are not correct
+Put that axe down
+Volunteer
+Trainer
+Community
+Development
+Observe
+Project
+Work
+Meeting
+Parents meeting
+School Board
+Clinic
+Headman
+Fundraising
+Chairperson
+Treasurer
+Vote
+Red
+Orange
+Yellow
+Green
+Blue
+Purple
+Black
+White
+Brown
+What color is your shirt

@@ -1,0 +1,644 @@
+Good------Nawa
+Morning------Ongula
+Afternoon------Omutenya
+Afternoon------Komatango
+Evening------Onguloshi
+Night------Oufiku
+Friends------ooKaume
+Yes------Heeno
+No------Ahowe
+OK------Eewa
+Good morning------Wa lele po
+Good afternoon------Wa uhala po
+Good evening------Wa tokelwa po
+Hello------Ongaipi
+Go well------Enda po nawa
+Stay well------Kala po nawa
+Sleep well------Ka nangale po nawa
+Sleep well------Nangala po nawa
+I------Ame
+You------Ove
+He------Ye
+She------Ye
+We------Fye
+You all------Nye amushe
+They------Vo
+One------Imwe
+Two------Mbali
+Three------Nhatu
+Four------Nhee
+Five------Nhano
+Six------Hamano
+Seven------Heyali
+Eight------Hetatu
+Nine------Omuwoi
+Ten------Omulongo
+Eleven------Omulongo na imwe
+Twelve------Omulongo nambali
+Twenty------Omilongo mbali
+Twenty-five------Omilongo mbali nanhano
+Thirty------Omilongo nhatu
+One hundred------Efele
+Two hundred------Omafele avali
+Three hundred------Omafele atatu
+One thousand------Eyovi limwe
+Two thousand------Omayovi avali
+I’m hungry------Onda fya ondjala.
+I’m thirsty------Onda fya enota.
+I’m full------Onda kuta.
+I’m finished------Onda mana.
+I’m tired------Onda loloka
+I want to go to sleep------onda hala ndi kakofe.
+Where is the water------Omeva oku li peni
+I don’t eat meat------Ihandi li ombelela.
+I don’t understand------Kandi udite ko
+I’m Sarah What’s your name------Aame Sarah ove oove lye
+The food is very good------Oikulya inyenye
+Thank you very much------Tangi unene.
+Where is the latrine------Okandjuwo oke li peni
+I need Water------Onda pumbwa Omeya
+I want Water------Onda hala Omeya
+May I have Water------Kwafele nge Omeya
+Give me------Pe nge
+Water------Omeya
+Basin------Oshiyaxa
+To sleep------Okukofa
+To eat------Okulya
+To bath------Okulikosha
+Body soap------Ofewa
+Candle------Okalexita
+Cup------Okakopi
+Beer------Obiila
+Help------Ekwafo
+Key------Oshipatululo
+And With------Na
+Still------Natango
+Or------Ile
+I don't know------Kandi shi shi
+Work------okulonga
+Worked------longa
+Teach------longa
+Taught------longa
+Study------Elihonga
+Studied------Elihonga
+Learn------lilongo
+Learned------lilonga
+Sleep------kofa
+Go------inda
+Look------tala
+Looked------atala
+See------wete
+Be------li
+Love------hole
+Like------hole
+Have------na
+Know------shi
+Feel------udite
+Hear------udite
+Understand------udite ko
+I am eating------Ohandi li
+I ate------Onda lya
+I ate meat------Onda lya ombelela
+I am not working------Itandi longo
+He is speaking Oshikwanyama------Ota popi Oshikwanyama
+We will go tomorrow------Ohatu ka ya mongula
+I like traditional porridge------Ondi hole oshifima
+Do you have a pen------Ou na opena
+I do not know Afrikaans------Kandi shi shi Oshimbulu
+How is it going------Oshi li ngaipi
+It is going well------Oshi li nawa
+What is your name------Edina loye olye
+My name is Sarah------Edina lange o Sarah
+Where are you from------Owa dja peni
+I am from Windhoek------Onda dja ko Windhoeka
+What are you doing in Namibia------Oto ningi shike moNamibia
+I am a volunteer teacher------Ame omulongi omuliyambi
+I am a teacher trainer------Ohandi deula ovalongi
+I am an IT volunteer------Ohandi longo eekompiuta
+What will you teach here------Oto ka longa shike apa
+I will teach------Ohandi ka longa
+Maths------Omwaalu
+English------Noshiingilisa
+Science------Nounongoni
+For how long will you be here------Oto ka kala mo efimbo li fike peni
+I will be here for two years------Ohandi ka kala mo eedula mbali
+See you later------Oshi liwete nale
+How old are you------Ou na eedula ngapi
+I am 4 years old------Ondi na eedula Nhee
+It’s me------Aame
+It’s not me------Haame
+To sing------Okwiimba
+Not to sing------Okuhaimba
+Is it not so------Hasho
+It is so------Osho
+Put------Tula
+Boil------Fulukifa
+Stir------Pilula
+Wait------Teelela
+Burn yourself------Pya
+Cook------Teleka
+Bring------Eta
+Pound------Twa
+Take------Tambula
+Pick------Kufa
+Traditional porridge------Oshifima
+Meat------Ombelela
+Cabbage------Ombidi
+Dried spinach------Evanda
+Goat------Oshikombo
+Beef------Ombelela yongobe
+Chicken------Oxuxwa
+Dog------Ombwa
+Fish------Oshi
+Field mouse------Omhuku
+Frog------Efuma
+Soup------Oshopa
+Pasta------Omakoloni
+Rice------Olwiishi
+Oil------Omaadi
+Tomato------Etama
+Salt------Omongwa
+Fat cakes------Oukuki
+Apple------Oshiyapela
+Flour------Oufila
+Sugar------Osuuka
+Millet------Omahangu
+Traditional non-alcoholic drinks------Oshikundu / Oshinwa
+Traditional alcoholic drinks------Omalodu
+Bread------Omboloto
+Jam------Ongema
+Butter------Ombuta
+Beans------Omakunde
+Tea------Otee
+Coffee------Okofi
+Cooldrink------Onamunate
+Pot------Ombiya
+Bowl------Oshiyaxa
+Plate------Okayaxa
+Traditional clay pot------Etiti
+Spoon------Olunguto
+Fork------Ofoloka
+Knife------Ombele
+Hand------Eenyala
+Cooking stick------Oluko
+Fire------Omundilo
+Cooking fire------Ediko
+Match------Okapalwa
+To sleep------Okukofa
+To eat------Okulya
+To sing------Okwiimba
+Put the flour in the pot------Tula oufila mombiya
+Eat meat------Lya ombelela
+Wait ten minutes------Teelela ominute omulongo
+Stay well------Kala po nawa.
+Go away------Inda
+Come------Ila
+Don’t be afraid------Ino tila
+Don’t go------Ino ya
+Word------Oshitya
+What is that------Osho Oshike
+Say------Tya
+I say------Ohai ti
+What did he say------Okwa ti ngaipi
+In------Mo
+On------Po
+At------Ko
+Family------Ovaneumb
+My father------Tate
+Your father------Xo
+His/her father------Xe
+My mother------Meme
+Your mother------Nyoko
+His mother------Ina
+My sibling------Omumwameme
+My brother------Omumwamememati
+My sister------Omumwamemekadona
+Your sibling------Omumwanyoko
+her sibling------Omumwaina
+Little brother or sister------Okandenge
+Grandmother------Memekulu
+Grandfather------Tatekulu
+Child------Okaana
+Children------Ounona
+Baby------Okaana
+First-born------Oshiveli
+Middle-born------Onowele
+Last-born------Onghelo
+Friend------Kaume
+Female friend------Kahewa
+Visitor------Omweenda
+Neighbor------Omushiinda
+Husband------Omushamane
+Man------Omushamane
+Wife------Omukulukadi
+Woman------Omukulukadi
+Fiancé------Omuvaleki
+Fiancée------Omuvalekwa
+I am engaged------Onda valekwa.
+Parents------Ovakulunhu
+Young person------Omunyasha
+Younger person------Omunini
+Elder person------Omukulunhu
+Who’s that------Olye oo
+Where------Peni
+When------Naini
+When------Efimbo peni
+Who------lye
+Why------Omolwashike
+What------oshike
+How------Ongaipi
+How many------ngapi
+Which------lipi
+Where are you going------Oto i peni
+What are you doing------Oto ningi shike
+Where is Ms. Sylvia------Meme Sylvia oku li peni
+Who is singing------Olye ta imbi
+Why are crying------Omolwashike to lili
+My------shange
+Your------shoye
+Her------shaye
+His------shaye
+Our------shetu
+Your------shavo
+Their------shavo
+Cuca shop------Okamba
+Store------Ofitola
+Proletarian revolution------Elunduluko lovanailonga
+Right-wing reactionary------Omukalunduluka wolulyo
+Money------Oimaliwa
+Change------Oshendja
+Expensive------Ondilo
+Cheap------Ombilixa
+Coins------Oimaliwa ikukutu
+Bills------Oimaliwa yomafo
+Enough------Opuwo
+To be enough------Wana
+Receipt------Okasilepa
+Price------Opulaisa
+Customer------Okasitoma
+Dollar------Odola
+Rand------Olanda
+coin------Oshifilinga
+Buy------Landa
+Sell------Landifa
+Give------Pa
+Pay------Futa
+How much------Ingapi
+It is too expensive------Ondilo unene
+I only have------Ondi na ashike
+Don’t cheat me------Ino nyokoma nge
+I don’t have enough money------Kandi na oimaliwa ya wana
+Head------Uka
+Get in------Londa
+Get off------Dja mo
+Stop------Fikama
+Here------Apa
+There------Opo
+Near------Popepi na
+Far------Kokule
+Turn------Ngolyoka
+Car------Otuwa
+Lift------Olefa
+Hitchhike------Kwata olefa
+Bus------Ombesa
+Combi------Okambesa
+To the left------Kolumosho
+To the right------Kolulyo
+Directions------Eembinga
+Town------Odolopa
+Church------Ongeleka
+Police station------Opolifi
+Post office------Opoosa
+Office------Ombelewa
+Petrol station------Omahooli
+Stop light------Omalobota
+Road------Opate
+Street------Ostalata
+Path------Ondjila
+I need a lift------Onda pumbwa olefa
+Where are you going------Oto i peni
+Do you have change for------Ou na oshendja y
+Where is my change------Oshendja yange oi li peni
+Stop here------Fikama apa
+Stop there------Fikama opo
+I am getting out here------Ohandi di mo apa
+I am getting out there------Ohandi di mo opo
+Stop for my friends------Fikamena ookaume kange
+I want to go to------Onda hala okuya ko
+Come------Uya
+Go------Ya
+I went------Onda ya
+I am going------Ohandi i
+I will go------Ohandi ka ya
+I came------Onde ya
+I am coming------Ohandi Uya
+I will come------Ohandi ke uya
+They went------ Ova ya
+Go back------shuna
+Come back------aluka
+Come from------dja
+Arrive------fika
+Head------Omutwe
+Hair------Eexwiki
+Eyes------Omesho
+Nose------Eyulu
+Ears------Omakutwi
+Mouth------Okanya
+Shoulder------Epepe
+Back------Ombuda
+Arms------Omaoko
+Hands------Omake
+Chest------Onulo
+Breast------Omavele
+Stomach------Edimo
+Buttocks------Omatako
+Legs------Omaulu
+Knee------Ongolo
+Foot------Omhadi
+Toes------Ominwe
+Teeth------Omayoo
+Beard------Eendjedi
+Pills------Eepela
+Medicine------Omiti
+Shot------Yasha
+Clinic------Okapangelo
+Hospital------Oshipangelo
+Doctor------Ondokotola
+Nurse------Omupangi
+Cough------Omukolo
+Running nose------Eshikisha
+Diarrhea------Oshimela
+Toothbrush------Okakombe kokomayo
+Toothpaste------Omuti wokomayo
+Dental floss------Ongodi yomayo
+Hairbrush------Omendu
+Razor------Okambi
+Sunscreen------Omaadi omutenya
+Lotion------Omaadi okolutu
+Lip balm------Omaadi okomilungu
+Sick------Ehama
+Burn------Pya
+Shave------Kulula
+Vomit------Kunga
+What part of you is hurting------Oto vele peni
+When did you get sick------Owa tameka okuvela naini
+Can you call Sarah for me------Kwafenge wu ifanenenge Sarah.
+Can you call Sarah for me------Kwafe nge u dengele Sarah
+I want to go to the hospital------Onda hala okuya koshipangelo
+I want to see the doctor------Onda hala okumona Ndokotola
+The doctor said I have to go to Windhoek------Ndokotola okwa ti ondi na okuya kOvenduka
+Protect yourself------Liamena
+Happy------Hafa
+Full------Kuta
+Angry------Handuka
+Want------Hala
+Need------Pumbwa
+Tired------Loloka
+Dying------Fya
+Sleepy------Fya eemofi
+Hungry------Fya ondjala
+Afraid------Tila
+If------Ngeenge
+If------Ngeno
+Then------Ndele
+Maybe------Mbela
+It’s possible------Otashi shiiva
+About------Kombinga
+Behind------Konima
+In front------Komesho
+While------Manga
+Because------Shaashi
+But------Ndee
+Probably------Pamwe
+Me------Nge
+You------Ku
+Her------Mu
+Him------Mu
+Us------tu
+You------mu
+Them------va
+Monday------Omaandaxa
+Tuesday------Etivali
+Wednesday------Etitatu
+Thursday------Etine
+Friday------Etitano
+Saturday------Olomakaya
+Sunday------Oshoondaxa
+January------Januali
+February------Febululali
+March------Maalitsa
+April------Apilili
+May------Mei
+June------Juni
+July------Juli
+August------Aguste
+September------Septemba
+October------Kotoba
+November------Novomba
+December------Desemba
+Day------Efiku
+Week------Oshivike
+Weekend------Owikenda
+Month------Omwedi
+Year------Odula
+Time------Efimbo
+Minute------Omunute
+Minutes------Ominute
+Hour------Otundi
+Clock------Ovili
+Watch------Ovili
+Meet------Shakena
+Meeting------Oshihongi
+Holiday------Efudo
+Workshop------Oshihongiilonga
+What day is it------Nena etingapi
+What time is it------ongapi
+What day------Naini
+At what time the of day------Efimbo peni
+At what time------Pongapi
+What is the date------Omafiku angapi
+Clothes------Oikutu
+T-shirt------Okambidja
+Shirt------Ohema
+Blouse------Okabuluse
+Trousers------Ombulukweva
+Jersey------Ombidja
+Dress------Ohema
+Skirt------Oufulukweva
+Jacket------Ombaikifa
+Shoes------Eenghaku
+Flip-flops------Eetapa
+Socks------Oikafino
+Hat------Embale
+Belt------Omuya
+Slip------Okadjalifo
+Glasses------Omakende okomesho
+Tie------Otae
+Watch------Ovili
+Bra------Okamanga
+Underwear------Okapendi
+Laundry------Oikutu yakaka
+Clean------Yela
+Dirty------Kaka
+Bucket------Oshiyemele
+Soap------Ofewa
+Clothesline------Ongodi yoikutu
+Clothespins------Oukalamala
+Iron------Oshikangule
+Basin------Oshiyaxa
+Wash clothes------Kosha
+Wash your body------Likosho
+Iron------Kangula
+Where can I hang my clothes------Openi hai tulike oikutu yange
+You look nice------Oto monika nawa
+I was born like that------Osho nda lwa
+House------Eumbo
+Toilet------Okandjuwo
+Bedroom------Onduda yokunangala
+Kitchen------Epata
+Kitchen------Okambifa
+Shower area------Okalikoshelo
+Sitting room------Osheti
+Room------Onduda
+Homestead------Eumbo lomiti
+Grain storage------Eshisha
+Garden------Oshikunino
+Corral------Oshuunda
+Door------Oshivelo
+Fence------Odalate
+Fire------Omundilo
+River------Omulonga
+Dirty water------Omeva ma kaka
+Water tap------Okapomba
+Animal------Oshinamwenyo
+Cow------Ongobe
+Goat------Oshikombo
+Chicken------Oxuxwa
+Donkey------Ondoongi
+Cat------Okambishi
+Dog------Ombwa
+Lizard------Ekoko
+Snake------Eyoka
+Spider------Eluviluvi
+Scorpion------Ondje
+Millipede------Ongongololo
+Pig------Oshingulu
+Duck------Ombaka
+Horse------Onghambe
+Bird------Okadila
+Mouse------Omhuku
+Ant------Onhenda
+Fly------Odi
+Mosquito------Omwe
+Bat------Elimalima
+Owl------Exuvi
+Dove------Onguti
+Cockroach------Ekakalate
+Bug------Epuka
+Bed------Ombete
+Fridge------Ofilidja
+Stove------Efiga
+Trash------Oimbodi
+Window------Ekende
+Table------Oshitafula
+Chair------Oshipundi
+Roof------Eembuli
+Candle------Okalexita
+Paint------Opainda
+Lock------Ekumba
+Key------Oshipatululo
+Break------Teka
+Fix------Pangela
+Lock------Pata
+Open------ Yuulula
+Unlock------Patulula
+Close------Edila
+Sweep------Komba
+Look for------Konga
+Rake------Halaka
+Cultivate------Lima
+Plant------Twika
+Sow------Kuna
+Plough------Pulula
+Harvest------Teya
+Slaughter------Dipaa
+Skin------Yuva
+Fetch water------Teka
+Collect wood------Tyava
+Throw away------Ekelashi
+Meet------Shakaneka
+Visit------Talela po
+Greet------Kundila po
+Wake up ------Penduka
+Wake someone up------Pendula
+Where do I put my trash------Openi handi ekelashi oimbodi
+It is broken------Osha teka.
+Can I paint my room------Nandi painde onduda yange
+What’s wrong------Oshike sha puka?
+Can I help you------Nandi ku kwafe?
+Where can I plant a garden------Openi handi dulu okuninga oshikunino
+Chalkboard------Oshipelende
+Chalk------Omya
+Pen------Opena
+Pencil------Opena yekala
+Paper------Ombapila
+Book------Embo
+Exam------Ekonaakono
+Report------Odjapo
+Certificate------Odjapo
+Workshop------Oshihongiilonga
+Science------Ounongononi
+Mathematics------Omwaalu
+English------Oshiinglisa
+Afrikaans------Oshimbulu
+German------Oshindowishi
+Portuguese------Oshiputu
+Spanish------Oshispania
+Computers------Eekompiuta
+Principal------Omukulunhufikola
+Secretary------Hamushanga
+Grade------Ondodo
+Bag------Ondjato
+Learners------Ovanafikola
+Calculator------Okashina
+Electricity------Olusheno
+School Fund------Oshikefa shofikola
+Prepare------Lilongekida
+Invigilate------Kalela
+Sit down------Kala omutumba
+Mark------Talela
+Stand up------Fikama
+Be quiet------Mwena
+Speak louder------Popya mokule
+Speak softer------Popya kashona
+Read aloud------Lesha mokule
+Be late------Laata
+You are correct------Ou li mondjila
+You are not correct------Ku li mondjila / Owa puka
+Put that axe down------Tula ekuva pedu
+Volunteer------Omuliyambi
+Trainer------Omudeuli
+Community------Ovanhu vomomukunda
+Development------Ehumokomesho
+Observe------Talela
+Project------Opoloyeka
+Work------Oilonga
+Meeting------Oshihongi
+Parents meeting------Oshihongi shovadali
+School Board------Etonatelofikola
+Clinic------Okilinika
+Headman------Mwene womukunda
+Fundraising------Ekongo loimaliwa
+Chairperson------Omunashipundi
+Treasurer------Omudiinini woiniwe
+Vote------Hoolola
+Red------tilyana
+Orange------tilyanaoushunga
+Yellow------shunga
+Green------ziza
+Blue------mbulau
+Purple------tilyanembulau
+Black------laula
+White------toka
+Brown------mbudu
+What color is your shirt------Ohema yoye oi li ngahelipi
