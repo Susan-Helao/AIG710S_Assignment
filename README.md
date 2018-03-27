@@ -1,4 +1,3 @@
-==================
 AIG710S ASSIGMENT
 ==================
 
@@ -7,7 +6,6 @@ LECTURER: Mr Lameck M. Amugongo
 Department of Computer Science
 FCI
 
-==============
 Dependencies:
 ==============
 -intall ubuntu, on dual boot (min 30Gb)
@@ -26,10 +24,9 @@ Dependencies:
 
 -pip install chatterbot
 
-==============================
 How To Use The Chatbot (NDALI)
 ==============================
-==========================================
+
 Running the Training class of the chatbot
 ==========================================
 
@@ -50,7 +47,6 @@ If you type yes,  you can continue feeding it other statements.
 If you type no, the bot will then prompt you to enter the correct response. 
 After entering the right response the bot will then save the response to it's database
 
-=========================================
 Running The Chatbot class of the chatbot
 =========================================
 
@@ -60,7 +56,6 @@ To Chat to Ndali you have to run the chatbot.py file (python chatbot.py)
 Step 2
 Chat to Ndali
 
-====================================================================
 Running the Translator with Speech Recognition class of the Chatbot
 ====================================================================
 Step 1
