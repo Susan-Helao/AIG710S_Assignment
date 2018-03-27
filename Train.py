@@ -37,7 +37,7 @@ def get_feedback():
         return get_feedback()
 
 
-print("Type something to begin...")
+print("Type something to begin training Ndali...")
 
 # The following loop will execute each time the user enters input
 while True:
@@ -48,11 +48,11 @@ while True:
         bot.output.process_response(response)
         print('\n Is "{}" the correct response to "{}"? \n'.format(response, input_statement))
         if get_feedback():
-            print("please input the correct one")
+            print("please teach Ndali the correct answer")
             response1 = bot.input.process_input_statement()
             bot.learn_response(response1, input_statement)
             bot.storage.add_to_conversation(CONVERSATION_ID, statement, response1)
-            print("Responses added to bot!")
+            print("Ndali has Learned the Response!")
 
     # Press ctrl-c or ctrl-d on the keyboard to exit
     except (KeyboardInterrupt, EOFError, SystemExit):

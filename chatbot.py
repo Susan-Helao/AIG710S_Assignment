@@ -3,7 +3,7 @@ from chatterbot.trainers import ListTrainer
 #import the chatbot
 from chatterbot import ChatBot
 #Importing Google Text to Speech
-from gtts import gTTS
+#from gtts import gTTS
 
 import os
 
@@ -25,16 +25,16 @@ while True:
       
 		
 		##TEXT TO SPEECH
-        speech = (message)
-        tts = gTTS(text=speech, lang='en')
-        tts.save("Speech/speech.mp3")
-        os.system("start Speech/speech.mp3")
+        #speech = (message)
+        #tts = gTTS(text=speech, lang='en')
+        #tts.save("Speech/speech.mp3")
+        #os.system("start Speech/speech.mp3")
 
         if confidence >  0.7:
             print('Ndali: ', reply)
         else:
-            print ('Ndali: I do not understand')        
+            print ('Ndali: Kandi udite ko')        
     
     if message.strip() == 'Bye':
-        print('Ndali:  ')
+        print('Ndali: Oshi liwete nale ')
         break

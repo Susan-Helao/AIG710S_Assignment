@@ -7,8 +7,21 @@ Department of Computer Science
 FCI
 
 Dependencies:
-Python 3.6
-ChatterBot 0.8.4
+-intall ubuntu, on dual boot (min 30Gb)
+
+-install pythom
+
+-download DeepSpeech (3.9Gb partiyion size)
+
+-Install anaconda with sudo
+
+-pip install pyaudio (via anaconda)
+
+-pip install deespeech
+
+-pip install webrtcvad
+
+-pip install chatterbot
 
 Group 1
 Part Time
